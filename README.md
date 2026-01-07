@@ -16,14 +16,8 @@ I am an experienced Front-end Engineer with a deep passion for building scalable
 
 ### 🛠 Featured Project
 **[Portfolio Score](https://portfolio-score-frontend.vercel.app/)**
-*A comprehensive tool designed to analyze and score developer portfolios.*
+*A professional full-stack application that analyzes developer portfolios through GitHub integration, providing structured feedback, scoring, and actionable recommendations.*
 - Focuses on performance, accessibility, and clean UI/UX.
-
----
-
-### 📊 GitHub Stats
-![Andrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriimaksymov&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andriimaksymov&layout=compact&theme=transparent)
 
 ---
 
