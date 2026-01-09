@@ -22,8 +22,7 @@ I am an experienced Front-end Engineer with a deep passion for building scalable
 ---
 
 ### 📫 Let's Connect
-- **Portfolio:** [portfolio-score-frontend.vercel.app](https://portfolio-score-frontend.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/maksymov-andrii](#)
+- **LinkedIn:** [[linkedin.com/in/maksymov-andrii](https://www.linkedin.com/in/maksymov-andrii/)](#)
 
 ---
 
