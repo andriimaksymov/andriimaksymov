@@ -14,10 +14,17 @@ I am an experienced Front-end Engineer with a deep passion for building scalable
 
 ---
 
-### 🛠 Featured Project
-**[Portfolio Score](https://portfolio-score-frontend.vercel.app/)**
-*A professional full-stack application that analyzes developer portfolios through GitHub integration, providing structured feedback, scoring, and actionable recommendations.*
-- Focuses on performance, accessibility, and clean UI/UX.
+### 🛠 Featured Projects
+
+#### 🐾 [Pet Life](https://github.com/andriimaksymov/pet-life)
+A modern full-stack pet health management platform designed to help owners track vaccinations, medications, and daily care.
+* **Stack:** Next.js 15, TypeScript, PostgreSQL, Prisma, Tailwind CSS, Shadcn UI.
+* **Focus:** Complex state management, database relations, and intuitive UX for health tracking.
+
+#### 📊 [Portfolio Score](https://portfolio-score-frontend.vercel.app/) — [Repo](https://github.com/andriimaksymov/portfolio-score)
+A professional application that analyzes developer portfolios via GitHub, providing structured feedback and actionable scoring.
+* **Stack:** React, TypeScript, Node.js.
+* **Focus:** Performance, accessibility, and clean UI/UX.
 
 ---
 
