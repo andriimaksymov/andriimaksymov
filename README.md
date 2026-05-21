@@ -29,7 +29,7 @@ A professional application that analyzes developer portfolios via GitHub, provid
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [[linkedin.com/in/maksymov-andrii](https://www.linkedin.com/in/maksymov-andrii/)](#)
+- **LinkedIn:** [[linkedin.com/in/maksymov-andrii](https://www.linkedin.com/in/maksymov-andrii/)](https://www.linkedin.com/in/maksymov-andrii/)
 
 ---
 
