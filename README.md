@@ -5,12 +5,15 @@ I am an experienced Front-end Engineer with a deep passion for building scalable
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 
-- **Frontend:** React, Next.js (SSR/ISR), TypeScript, Redux Toolkit, Tailwind CSS.
-- **Backend:** Node.js, Express, RESTful APIs (Learning/Applying).
-- **Tools & Workflow:** Git, Docker, CI/CD, Jest, Playwright.
-- **Architecture:** Micro-frontends, Component-driven development, Clean Code.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
