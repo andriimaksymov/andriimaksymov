@@ -32,14 +32,7 @@ A professional application that analyzes developer portfolios via GitHub, provid
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [[linkedin.com/in/maksymov-andrii](https://www.linkedin.com/in/maksymov-andrii/)](https://www.linkedin.com/in/maksymov-andrii/)
-
----
-
-## 📈 GitHub Stats
-
-![Andrii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andriimaksymov&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andriimaksymov&layout=compact&theme=default&hide_border=true)
+- **LinkedIn:** (https://www.linkedin.com/in/maksymov-andrii/)
 
 ---
 
